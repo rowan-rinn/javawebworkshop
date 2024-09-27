@@ -1,6 +1,6 @@
 { "name": "Calculator",
   "short_name": "Calculator",
-  "start_url": "https://rowan-rinn.github.io/javawebworkshop/index",
+  "start_url": "https://rowan-rinn.github.io/javawebworkshop/",
   "background_color": "#6dcdb1",
   "theme_color": "#009578",
   "display": "standalone",
